@@ -91,3 +91,8 @@ python3 my-program.py --pvp
 
 ## Impossible
 - [ ] Make it playable online against another player using something like `Django`, mounting it on a server in `AWS`, `Firebase/GCP`, etc
+
+
+#### Solution link
+
+#### [Do not open till you have tried first!!](https://github.com/JOmarCuenca/battleship-practice-project-implementation)
